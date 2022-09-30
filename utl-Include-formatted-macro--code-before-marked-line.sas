@@ -2,6 +2,10 @@
 
 Problem: Include macro utl_submit_r64 formatted code before line XX in the 1980s SAS classic editor.
 
+github
+https://tinyurl.com/bdzxtx2r
+https://github.com/rogerjdeangelis/utl-Include-formatted-macro--code-before-marked-line
+
 /*
  _                   _
 (_)_ __  _ __  _   _| |_
